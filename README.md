@@ -1,4 +1,5 @@
-# README - eval-java-sikuli - Evaluation Sikuli with Java
+# README - eval-java-sikuli
+Evaluation Sikuli with Java
 
 ## 1. Introduction ##
 
